@@ -3,8 +3,6 @@
 <!--
 **dunkdunkdunk/dunkdunkdunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-https://github-readme-stats.vercel.app/api?username=dunkdunkdunk&show_icons=true&theme=gotham
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hey, how's it going? I'm Soravit Satechaichan but everybody calls me "Dunk". I'm presently grade 12 student in department of Engineering - Artificial Intelligence at Satit Prasarmit School.
+
+https://github-readme-stats.vercel.app/api?username=dunkdunkdunk&show_icons=true&theme=gotham
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=dunkdunkdunk&layout=compact&theme=gotham
