@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://shorturl.at/VZHUv" target="_blank">
+  <a href="https://drive.google.com/file/d/1btbPC2PDdHPnjxej2P_5FE-MXaJ1IpfE/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View_Full_Resume-0077B5?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume Link">
   </a>
 </p>
@@ -33,7 +33,6 @@ A **penultimate engineering** student at **Chulalongkorn University** specialize
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dunkdunkdunk&show_icons=true&theme=buefy&count_private=true" alt="Soravit's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunkdunkdunk&layout=compact&theme=buefy" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=dunkdunkdunk&theme=buefy-pro" alt="GitHub Streak" />
 </p>
 
 ---
